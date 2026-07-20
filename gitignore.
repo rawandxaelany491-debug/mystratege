@@ -1,0 +1,7 @@
+.env
+allowed_users.json
+__pycache__/
+*.pyc
+journal.json
+photo_limits.json
+streaks.json
